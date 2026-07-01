@@ -22,6 +22,7 @@ A beginner-friendly basic HTML file that introduces fundamental web development 
 - Hyperlink (`<a>`) to an external resource (e.g., MDN Web Docs)
 - Image (`<img>`) with alt text
 - A simple unordered or ordered list (`<ul>` or `<ol>`)
+- A simple vidio section
 
 ### 3.3 Beginner-Friendly Features
 - Inline comments explaining each tag's purpose
